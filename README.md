@@ -42,8 +42,3 @@ Telegram is a cloud-based instant messaging and voice over IP service. Telegram 
  * Fork, clone or download the project and open it with IntellijIdea (or any other IDE) and run the `Main.java` class.
  * Use two instances of the program to correctly test the messaging feautures. (One instance must act as a server) 
 
-## Contribution:
-Feel free to `fork` this project and add whatever you like. If you have any suggestions or any comments please feel free to contact me or to open an issue, use free license art assets please.
-
-## Team:
-[Jetlighters](https://github.com/JetLightStudio) having fun.
